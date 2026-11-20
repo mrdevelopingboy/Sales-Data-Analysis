@@ -1,0 +1,265 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Discount,Sales,Profit
+1008,2025-01-02,Watch,Accessories,West,3,3200,0.15,8160.0,3089.21
+1017,2025-01-03,Desk Chair,Furniture,South,1,8500,0.05,8075.0,2759.11
+1010,2025-01-03,Monitor,Electronics,North,3,12000,0.15,30600.0,12181.31
+1007,2025-01-04,Shoes,Clothing,East,3,2400,0.0,7200.0,3059.7
+1022,2025-01-05,Water Bottle,Accessories,South,1,450,0.0,450.0,97.88
+1021,2025-01-05,Monitor,Electronics,Central,5,12000,0.1,54000.0,19022.09
+1019,2025-01-05,Monitor,Electronics,South,6,12000,0.1,64800.0,26660.32
+1006,2025-01-05,Shoes,Clothing,South,2,2400,0.1,4320.0,1547.13
+1003,2025-01-07,Coffee Maker,Appliances,South,4,4200,0.0,16800.0,7424.84
+1014,2025-01-08,Coffee Maker,Appliances,South,6,4200,0.0,25200.0,7705.71
+1001,2025-01-08,Mixer,Appliances,South,1,3500,0.0,3500.0,874.23
+1013,2025-01-09,Headphones,Electronics,North,3,2500,0.05,7125.0,2803.21
+1009,2025-01-10,Backpack,Accessories,Central,1,1800,0.1,1620.0,694.53
+1018,2025-01-16,Monitor,Electronics,West,5,12000,0.05,57000.0,22377.68
+1002,2025-01-18,Headphones,Electronics,North,6,2500,0.0,15000.0,4009.37
+1020,2025-01-19,T-Shirt,Clothing,West,5,700,0.15,2975.0,1127.7
+1012,2025-01-21,Watch,Accessories,East,1,3200,0.1,2880.0,1079.85
+1015,2025-01-21,Water Bottle,Accessories,Central,4,450,0.05,1710.0,312.64
+1004,2025-01-23,Backpack,Accessories,Central,5,1800,0.0,9000.0,2686.17
+1016,2025-01-25,Desk Chair,Furniture,North,6,8500,0.05,48450.0,10776.73
+1005,2025-01-26,Pen Pack,Stationery,North,2,120,0.1,216.0,62.83
+1011,2025-01-28,Mixer,Appliances,South,2,3500,0.05,6650.0,1223.53
+1030,2025-02-01,Monitor,Electronics,North,1,12000,0.15,10200.0,3697.27
+1038,2025-02-02,Laptop,Electronics,East,1,65000,0.0,65000.0,25232.07
+1034,2025-02-07,Office Desk,Furniture,Central,5,14000,0.15,59500.0,19977.29
+1031,2025-02-08,Monitor,Electronics,Central,3,12000,0.05,34200.0,13178.9
+1036,2025-02-08,Water Bottle,Accessories,North,5,450,0.1,2025.0,845.09
+1040,2025-02-08,Backpack,Accessories,West,2,1800,0.15,3060.0,900.93
+1035,2025-02-13,Shoes,Clothing,East,6,2400,0.0,14400.0,3708.05
+1023,2025-02-13,Shoes,Clothing,West,6,2400,0.1,12960.0,3745.05
+1026,2025-02-14,Shoes,Clothing,South,6,2400,0.05,13680.0,5743.97
+1039,2025-02-16,Phone,Electronics,South,5,25000,0.0,125000.0,46851.39
+1028,2025-02-17,Backpack,Accessories,Central,1,1800,0.05,1710.0,380.9
+1044,2025-02-18,Shoes,Clothing,West,1,2400,0.0,2400.0,955.85
+1024,2025-02-18,Coffee Maker,Appliances,North,4,4200,0.15,14280.0,5456.65
+1029,2025-02-18,Desk Chair,Furniture,Central,2,8500,0.05,16150.0,3942.57
+1025,2025-02-18,Mixer,Appliances,East,6,3500,0.0,21000.0,5584.7
+1033,2025-02-18,Shoes,Clothing,South,2,2400,0.0,4800.0,1304.96
+1037,2025-02-19,Notebook,Stationery,South,1,80,0.15,68.0,20.43
+1041,2025-02-22,Shoes,Clothing,West,4,2400,0.0,9600.0,4075.51
+1042,2025-02-24,Notebook,Stationery,North,4,80,0.1,288.0,93.28
+1043,2025-02-24,Mixer,Appliances,East,6,3500,0.0,21000.0,9106.33
+1032,2025-02-25,Phone,Electronics,Central,1,25000,0.1,22500.0,5167.66
+1027,2025-02-25,Water Bottle,Accessories,South,1,450,0.05,427.5,80.19
+1048,2025-03-01,Watch,Accessories,West,4,3200,0.0,12800.0,5191.01
+1066,2025-03-02,Phone,Electronics,North,6,25000,0.1,135000.0,30520.26
+1063,2025-03-04,Monitor,Electronics,Central,2,12000,0.05,22800.0,9549.42
+1053,2025-03-06,Headphones,Electronics,North,1,2500,0.15,2125.0,910.29
+1056,2025-03-07,Coffee Maker,Appliances,East,5,4200,0.05,19950.0,3942.7
+1045,2025-03-08,Headphones,Electronics,North,4,2500,0.0,10000.0,3747.93
+1065,2025-03-09,Desk Chair,Furniture,North,6,8500,0.05,48450.0,15190.99
+1059,2025-03-09,Phone,Electronics,South,1,25000,0.15,21250.0,8339.53
+1050,2025-03-10,Mixer,Appliances,South,6,3500,0.1,18900.0,7715.07
+1051,2025-03-11,Laptop,Electronics,North,5,65000,0.15,276250.0,119765.83
+1060,2025-03-12,Monitor,Electronics,East,3,12000,0.0,36000.0,7653.49
+1055,2025-03-14,Coffee Maker,Appliances,Central,5,4200,0.0,21000.0,5938.11
+1047,2025-03-16,Phone,Electronics,South,2,25000,0.0,50000.0,17013.41
+1046,2025-03-18,Water Bottle,Accessories,North,5,450,0.0,2250.0,981.77
+1054,2025-03-19,Coffee Maker,Appliances,South,1,4200,0.0,4200.0,1432.12
+1061,2025-03-20,Headphones,Electronics,Central,4,2500,0.15,8500.0,2210.38
+1058,2025-03-20,Water Bottle,Accessories,Central,3,450,0.0,1350.0,604.1
+1057,2025-03-21,Desk Chair,Furniture,East,3,8500,0.1,22950.0,9516.51
+1062,2025-03-22,Laptop,Electronics,North,6,65000,0.15,331500.0,122379.1
+1064,2025-03-23,Headphones,Electronics,East,3,2500,0.05,7125.0,2042.71
+1049,2025-03-24,Office Desk,Furniture,Central,4,14000,0.05,53200.0,17863.92
+1052,2025-03-28,Laptop,Electronics,Central,5,65000,0.1,292500.0,91912.39
+1068,2025-04-03,T-Shirt,Clothing,South,4,700,0.15,2380.0,1064.79
+1069,2025-04-05,Backpack,Accessories,West,1,1800,0.05,1710.0,500.56
+1080,2025-04-09,Notebook,Stationery,South,1,80,0.0,80.0,17.06
+1086,2025-04-10,Notebook,Stationery,Central,6,80,0.0,480.0,122.72
+1085,2025-04-11,Notebook,Stationery,Central,4,80,0.0,320.0,62.02
+1074,2025-04-11,Monitor,Electronics,West,4,12000,0.0,48000.0,19275.49
+1088,2025-04-13,Backpack,Accessories,South,2,1800,0.0,3600.0,1211.33
+1081,2025-04-14,Coffee Maker,Appliances,East,3,4200,0.0,12600.0,5301.21
+1067,2025-04-15,Notebook,Stationery,Central,2,80,0.05,152.0,61.77
+1082,2025-04-17,T-Shirt,Clothing,North,3,700,0.1,1890.0,541.15
+1077,2025-04-22,Notebook,Stationery,South,3,80,0.0,240.0,93.55
+1071,2025-04-22,Monitor,Electronics,North,3,12000,0.0,36000.0,9570.31
+1087,2025-04-23,Office Desk,Furniture,East,6,14000,0.1,75600.0,27361.95
+1083,2025-04-23,Pen Pack,Stationery,West,5,120,0.0,600.0,228.73
+1084,2025-04-24,Laptop,Electronics,South,5,65000,0.15,276250.0,73081.54
+1072,2025-04-24,Notebook,Stationery,South,5,80,0.1,360.0,67.34
+1078,2025-04-25,Pen Pack,Stationery,East,3,120,0.05,342.0,74.09
+1070,2025-04-26,Headphones,Electronics,North,1,2500,0.05,2375.0,834.92
+1075,2025-04-26,Shoes,Clothing,North,6,2400,0.0,14400.0,5442.66
+1073,2025-04-26,Monitor,Electronics,South,2,12000,0.0,24000.0,4474.18
+1079,2025-04-27,Notebook,Stationery,Central,6,80,0.15,408.0,139.57
+1076,2025-04-27,Pen Pack,Stationery,West,1,120,0.1,108.0,42.11
+1109,2025-05-01,T-Shirt,Clothing,East,1,700,0.15,595.0,206.64
+1104,2025-05-03,Water Bottle,Accessories,East,6,450,0.0,2700.0,1014.82
+1106,2025-05-05,Headphones,Electronics,South,2,2500,0.0,5000.0,1732.9
+1094,2025-05-05,Mixer,Appliances,North,3,3500,0.0,10500.0,2438.39
+1103,2025-05-09,Water Bottle,Accessories,Central,3,450,0.0,1350.0,301.37
+1092,2025-05-10,Backpack,Accessories,Central,4,1800,0.0,7200.0,1959.19
+1107,2025-05-15,Phone,Electronics,West,4,25000,0.1,90000.0,32459.58
+1101,2025-05-17,Notebook,Stationery,West,4,80,0.15,272.0,62.55
+1100,2025-05-18,Water Bottle,Accessories,Central,2,450,0.1,810.0,218.5
+1105,2025-05-18,Desk Chair,Furniture,North,3,8500,0.05,24225.0,8810.11
+1090,2025-05-19,Office Desk,Furniture,Central,3,14000,0.0,42000.0,14025.07
+1091,2025-05-22,Mixer,Appliances,South,3,3500,0.1,9450.0,3125.28
+1096,2025-05-23,Water Bottle,Accessories,West,4,450,0.15,1530.0,608.18
+1097,2025-05-23,Water Bottle,Accessories,North,4,450,0.0,1800.0,738.28
+1102,2025-05-24,Watch,Accessories,West,5,3200,0.1,14400.0,2991.65
+1110,2025-05-24,Office Desk,Furniture,Central,4,14000,0.1,50400.0,15355.89
+1108,2025-05-25,Laptop,Electronics,Central,2,65000,0.1,117000.0,40346.43
+1095,2025-05-25,Laptop,Electronics,North,2,65000,0.1,117000.0,33339.86
+1098,2025-05-26,Monitor,Electronics,Central,1,12000,0.1,10800.0,4221.86
+1093,2025-05-27,Mixer,Appliances,South,6,3500,0.15,17850.0,6417.06
+1089,2025-05-27,Coffee Maker,Appliances,North,5,4200,0.05,19950.0,6790.18
+1099,2025-05-28,Water Bottle,Accessories,North,1,450,0.15,382.5,146.39
+1120,2025-06-01,Shoes,Clothing,Central,1,2400,0.0,2400.0,950.81
+1114,2025-06-01,Laptop,Electronics,North,4,65000,0.15,221000.0,65772.73
+1132,2025-06-03,Office Desk,Furniture,East,3,14000,0.0,42000.0,9479.51
+1121,2025-06-04,Headphones,Electronics,Central,2,2500,0.0,5000.0,1610.69
+1115,2025-06-06,Mixer,Appliances,North,4,3500,0.0,14000.0,3023.3
+1122,2025-06-06,Desk Chair,Furniture,Central,4,8500,0.05,32300.0,7846.88
+1123,2025-06-06,Coffee Maker,Appliances,East,6,4200,0.0,25200.0,6047.9
+1111,2025-06-09,Shoes,Clothing,West,5,2400,0.0,12000.0,3818.14
+1116,2025-06-11,Office Desk,Furniture,East,4,14000,0.05,53200.0,20899.71
+1128,2025-06-14,Phone,Electronics,West,5,25000,0.05,118750.0,53031.84
+1127,2025-06-14,Shoes,Clothing,East,5,2400,0.0,12000.0,4275.06
+1130,2025-06-17,T-Shirt,Clothing,East,2,700,0.1,1260.0,507.08
+1118,2025-06-18,Office Desk,Furniture,North,1,14000,0.1,12600.0,5604.06
+1124,2025-06-19,Phone,Electronics,West,5,25000,0.0,125000.0,24900.06
+1113,2025-06-20,T-Shirt,Clothing,Central,2,700,0.1,1260.0,254.17
+1126,2025-06-20,Phone,Electronics,North,6,25000,0.05,142500.0,31409.97
+1119,2025-06-21,Notebook,Stationery,North,2,80,0.0,160.0,38.25
+1112,2025-06-22,Water Bottle,Accessories,West,1,450,0.1,405.0,145.49
+1125,2025-06-23,Pen Pack,Stationery,South,6,120,0.0,720.0,309.23
+1129,2025-06-27,Phone,Electronics,West,4,25000,0.05,95000.0,26447.24
+1117,2025-06-27,Shoes,Clothing,West,4,2400,0.05,9120.0,2252.25
+1131,2025-06-27,Coffee Maker,Appliances,Central,5,4200,0.1,18900.0,6132.75
+1138,2025-07-01,T-Shirt,Clothing,North,4,700,0.1,2520.0,829.06
+1146,2025-07-02,Office Desk,Furniture,North,1,14000,0.15,11900.0,4948.29
+1151,2025-07-03,Headphones,Electronics,South,2,2500,0.15,4250.0,823.38
+1135,2025-07-09,Headphones,Electronics,East,4,2500,0.0,10000.0,3541.97
+1141,2025-07-09,Notebook,Stationery,South,3,80,0.1,216.0,81.4
+1139,2025-07-10,Office Desk,Furniture,Central,2,14000,0.1,25200.0,6633.08
+1145,2025-07-12,Office Desk,Furniture,South,1,14000,0.0,14000.0,5180.19
+1140,2025-07-14,Notebook,Stationery,Central,4,80,0.15,272.0,83.41
+1153,2025-07-15,Desk Chair,Furniture,East,5,8500,0.1,38250.0,12559.81
+1148,2025-07-16,Phone,Electronics,West,1,25000,0.15,21250.0,7931.1
+1136,2025-07-17,Office Desk,Furniture,South,5,14000,0.05,66500.0,19945.77
+1144,2025-07-17,Office Desk,Furniture,Central,6,14000,0.15,71400.0,13302.97
+1150,2025-07-19,Phone,Electronics,North,1,25000,0.1,22500.0,7137.64
+1133,2025-07-19,Monitor,Electronics,Central,4,12000,0.0,48000.0,11873.83
+1154,2025-07-20,Watch,Accessories,North,5,3200,0.1,14400.0,5292.68
+1143,2025-07-24,Shoes,Clothing,West,6,2400,0.0,14400.0,5735.29
+1142,2025-07-24,Phone,Electronics,Central,6,25000,0.0,150000.0,54720.31
+1147,2025-07-25,Backpack,Accessories,West,3,1800,0.0,5400.0,1499.99
+1137,2025-07-25,Phone,Electronics,South,2,25000,0.1,45000.0,14313.78
+1152,2025-07-26,Phone,Electronics,Central,5,25000,0.1,112500.0,32208.1
+1149,2025-07-28,Notebook,Stationery,West,2,80,0.0,160.0,61.09
+1134,2025-07-28,Mixer,Appliances,East,4,3500,0.05,13300.0,5881.94
+1173,2025-08-02,Watch,Accessories,South,1,3200,0.15,2720.0,884.72
+1164,2025-08-02,Backpack,Accessories,West,4,1800,0.1,6480.0,2775.26
+1171,2025-08-03,Mixer,Appliances,East,4,3500,0.15,11900.0,5237.09
+1165,2025-08-03,T-Shirt,Clothing,South,3,700,0.15,1785.0,682.59
+1175,2025-08-05,Shoes,Clothing,East,1,2400,0.0,2400.0,906.95
+1161,2025-08-06,Monitor,Electronics,East,3,12000,0.0,36000.0,15505.9
+1156,2025-08-06,Office Desk,Furniture,Central,6,14000,0.0,84000.0,34237.95
+1155,2025-08-07,Coffee Maker,Appliances,South,6,4200,0.0,25200.0,4892.6
+1160,2025-08-08,Mixer,Appliances,South,2,3500,0.1,6300.0,2639.77
+1163,2025-08-09,Water Bottle,Accessories,Central,6,450,0.05,2565.0,669.65
+1159,2025-08-09,T-Shirt,Clothing,Central,4,700,0.0,2800.0,740.34
+1169,2025-08-11,Phone,Electronics,North,4,25000,0.05,95000.0,32275.87
+1172,2025-08-13,Office Desk,Furniture,Central,3,14000,0.0,42000.0,7898.11
+1168,2025-08-14,Monitor,Electronics,West,3,12000,0.0,36000.0,6509.69
+1162,2025-08-15,Coffee Maker,Appliances,North,6,4200,0.15,21420.0,4311.38
+1170,2025-08-16,Watch,Accessories,East,2,3200,0.05,6080.0,2060.24
+1174,2025-08-21,Backpack,Accessories,West,3,1800,0.15,4590.0,1128.04
+1176,2025-08-21,Water Bottle,Accessories,Central,6,450,0.1,2430.0,1013.83
+1167,2025-08-21,Coffee Maker,Appliances,West,1,4200,0.0,4200.0,1356.45
+1157,2025-08-23,Phone,Electronics,Central,2,25000,0.0,50000.0,16985.01
+1158,2025-08-23,Water Bottle,Accessories,East,3,450,0.0,1350.0,523.13
+1166,2025-08-25,Mixer,Appliances,East,5,3500,0.15,14875.0,2875.15
+1177,2025-09-01,Shoes,Clothing,Central,2,2400,0.0,4800.0,1757.27
+1197,2025-09-02,Water Bottle,Accessories,East,2,450,0.05,855.0,176.19
+1189,2025-09-02,Pen Pack,Stationery,South,6,120,0.0,720.0,227.71
+1196,2025-09-04,Desk Chair,Furniture,North,6,8500,0.0,51000.0,16974.21
+1178,2025-09-04,Pen Pack,Stationery,West,1,120,0.0,120.0,21.85
+1191,2025-09-05,Phone,Electronics,West,5,25000,0.1,112500.0,50158.82
+1181,2025-09-07,Desk Chair,Furniture,Central,4,8500,0.15,28900.0,11876.36
+1195,2025-09-08,Watch,Accessories,East,5,3200,0.0,16000.0,4532.58
+1182,2025-09-09,Backpack,Accessories,West,6,1800,0.0,10800.0,2340.5
+1183,2025-09-10,Notebook,Stationery,East,5,80,0.05,380.0,86.81
+1194,2025-09-11,Watch,Accessories,West,6,3200,0.15,16320.0,5669.53
+1198,2025-09-14,Shoes,Clothing,South,1,2400,0.05,2280.0,805.33
+1187,2025-09-14,Coffee Maker,Appliances,North,4,4200,0.0,16800.0,3677.13
+1180,2025-09-16,Backpack,Accessories,West,6,1800,0.05,10260.0,3466.01
+1184,2025-09-16,Watch,Accessories,South,5,3200,0.15,13600.0,2452.03
+1185,2025-09-18,Water Bottle,Accessories,Central,5,450,0.1,2025.0,722.55
+1186,2025-09-23,Pen Pack,Stationery,South,4,120,0.05,456.0,98.13
+1179,2025-09-23,Phone,Electronics,East,6,25000,0.0,150000.0,47315.79
+1188,2025-09-26,Notebook,Stationery,West,6,80,0.1,432.0,112.14
+1192,2025-09-26,Watch,Accessories,East,6,3200,0.0,19200.0,8252.09
+1193,2025-09-28,Notebook,Stationery,East,5,80,0.1,360.0,98.84
+1190,2025-09-28,Backpack,Accessories,West,5,1800,0.05,8550.0,1839.8
+1201,2025-10-05,Mixer,Appliances,South,2,3500,0.1,6300.0,1282.28
+1213,2025-10-06,Phone,Electronics,South,3,25000,0.05,71250.0,17682.84
+1203,2025-10-06,Monitor,Electronics,North,4,12000,0.05,45600.0,12177.25
+1216,2025-10-08,Water Bottle,Accessories,West,1,450,0.0,450.0,110.87
+1219,2025-10-08,Coffee Maker,Appliances,West,4,4200,0.05,15960.0,6715.11
+1214,2025-10-09,Headphones,Electronics,South,5,2500,0.05,11875.0,3641.7
+1209,2025-10-10,Monitor,Electronics,South,5,12000,0.1,54000.0,12157.21
+1215,2025-10-11,Office Desk,Furniture,North,4,14000,0.05,53200.0,13216.42
+1200,2025-10-13,Headphones,Electronics,Central,2,2500,0.0,5000.0,1427.19
+1217,2025-10-13,Watch,Accessories,North,5,3200,0.05,15200.0,6469.4
+1204,2025-10-14,Water Bottle,Accessories,East,3,450,0.15,1147.5,423.69
+1206,2025-10-19,Phone,Electronics,East,2,25000,0.1,45000.0,13301.14
+1210,2025-10-20,Coffee Maker,Appliances,East,3,4200,0.0,12600.0,3504.23
+1220,2025-10-20,Laptop,Electronics,South,5,65000,0.15,276250.0,99847.33
+1211,2025-10-21,Mixer,Appliances,North,6,3500,0.0,21000.0,5887.83
+1207,2025-10-22,T-Shirt,Clothing,West,3,700,0.0,2100.0,390.51
+1202,2025-10-22,Water Bottle,Accessories,North,6,450,0.05,2565.0,835.97
+1218,2025-10-22,Office Desk,Furniture,East,5,14000,0.0,70000.0,22904.54
+1212,2025-10-24,Office Desk,Furniture,South,4,14000,0.0,56000.0,16436.84
+1208,2025-10-25,Office Desk,Furniture,North,1,14000,0.15,11900.0,2575.54
+1199,2025-10-26,Desk Chair,Furniture,South,5,8500,0.1,38250.0,11367.88
+1205,2025-10-28,Water Bottle,Accessories,West,3,450,0.0,1350.0,243.23
+1239,2025-11-04,Laptop,Electronics,West,4,65000,0.1,234000.0,78368.03
+1233,2025-11-04,Headphones,Electronics,North,5,2500,0.05,11875.0,2783.52
+1223,2025-11-05,Phone,Electronics,West,1,25000,0.0,25000.0,5261.0
+1235,2025-11-05,Notebook,Stationery,West,1,80,0.0,80.0,30.27
+1230,2025-11-05,Laptop,Electronics,Central,1,65000,0.05,61750.0,23726.6
+1231,2025-11-07,Desk Chair,Furniture,South,1,8500,0.15,7225.0,2847.14
+1237,2025-11-08,Backpack,Accessories,Central,5,1800,0.0,9000.0,2951.63
+1234,2025-11-08,Headphones,Electronics,Central,1,2500,0.05,2375.0,562.17
+1228,2025-11-09,Monitor,Electronics,South,6,12000,0.05,68400.0,29661.76
+1222,2025-11-10,Phone,Electronics,West,2,25000,0.0,50000.0,9725.47
+1221,2025-11-10,Mixer,Appliances,West,1,3500,0.1,3150.0,644.07
+1240,2025-11-11,T-Shirt,Clothing,Central,4,700,0.0,2800.0,580.15
+1227,2025-11-12,Watch,Accessories,Central,3,3200,0.0,9600.0,1777.44
+1226,2025-11-15,Office Desk,Furniture,South,1,14000,0.05,13300.0,5204.78
+1225,2025-11-20,Monitor,Electronics,West,4,12000,0.0,48000.0,10795.34
+1242,2025-11-20,Backpack,Accessories,Central,6,1800,0.05,10260.0,3561.82
+1238,2025-11-21,Laptop,Electronics,North,6,65000,0.15,331500.0,122177.58
+1241,2025-11-21,Headphones,Electronics,Central,1,2500,0.0,2500.0,939.36
+1229,2025-11-21,Phone,Electronics,Central,4,25000,0.0,100000.0,27105.24
+1224,2025-11-24,Water Bottle,Accessories,South,3,450,0.15,1147.5,386.52
+1236,2025-11-25,Backpack,Accessories,East,1,1800,0.0,1800.0,578.54
+1232,2025-11-28,Notebook,Stationery,South,2,80,0.15,136.0,61.1
+1243,2025-12-04,Office Desk,Furniture,North,4,14000,0.15,47600.0,13639.05
+1252,2025-12-05,Notebook,Stationery,West,1,80,0.15,68.0,21.28
+1244,2025-12-07,Watch,Accessories,West,6,3200,0.15,16320.0,4167.69
+1263,2025-12-07,Water Bottle,Accessories,Central,5,450,0.1,2025.0,684.8
+1256,2025-12-09,Coffee Maker,Appliances,East,6,4200,0.05,23940.0,10585.85
+1246,2025-12-11,Pen Pack,Stationery,East,6,120,0.0,720.0,263.24
+1260,2025-12-11,Notebook,Stationery,Central,2,80,0.05,152.0,55.61
+1248,2025-12-12,Phone,Electronics,South,4,25000,0.0,100000.0,24896.1
+1253,2025-12-12,Desk Chair,Furniture,North,1,8500,0.05,8075.0,1790.62
+1254,2025-12-14,Shoes,Clothing,Central,3,2400,0.15,6120.0,2380.29
+1259,2025-12-14,Phone,Electronics,West,6,25000,0.15,127500.0,49969.05
+1245,2025-12-15,Water Bottle,Accessories,West,2,450,0.1,810.0,290.38
+1249,2025-12-18,Backpack,Accessories,East,1,1800,0.15,1530.0,293.32
+1255,2025-12-18,Shoes,Clothing,North,5,2400,0.15,10200.0,2731.11
+1251,2025-12-20,Watch,Accessories,East,6,3200,0.0,19200.0,3619.82
+1262,2025-12-22,Laptop,Electronics,West,6,65000,0.0,390000.0,146847.57
+1264,2025-12-22,Phone,Electronics,Central,3,25000,0.1,67500.0,28354.03
+1250,2025-12-22,Mixer,Appliances,West,1,3500,0.1,3150.0,1116.76
+1258,2025-12-24,Coffee Maker,Appliances,North,6,4200,0.1,22680.0,9779.89
+1261,2025-12-25,Coffee Maker,Appliances,Central,1,4200,0.0,4200.0,1713.57
+1247,2025-12-27,Notebook,Stationery,North,2,80,0.1,144.0,62.19
+1257,2025-12-28,Monitor,Electronics,South,3,12000,0.05,34200.0,15333.62
